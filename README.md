@@ -13,7 +13,7 @@ But with power comes abuse, as some 'bad guys' used the unrestricted access for 
 
 On the other hand, Chrome was designed with limited access to the program's internals. It managed to do by exposing alot of it's funtionality via JavaScript APIs.
 
-With the increasing popularity of Chrome access to the browser's funtionality shifted from C/C++ to JavaScript.
+With the increasing popularity of Chrome, access to the browser's funtionality shifted from C/C++ to JavaScript.
 
 With that said, modern versions of web browsers provide powerful APIs (via JavaScript) which can be leveraged to program browser security features using JavaScript.
 
