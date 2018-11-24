@@ -12,6 +12,7 @@ These add-ons had APIs which exposed hooks that allowed direct access the Docume
 But with power comes abuse, as malware writers used the unrestricted access for malicious itenstions
 
 On the other hand, Chrome was designed with limited access to the program's internals. It managed to do by exposing alot of it's funtionality via JavaScript APIs.
+
 With the increasing popularity of Chrome access to the browser's funtionality shifted from C/C++ to JavaScript.
 
 With that said, modern versions of web browsers provide powerful APIs (via JavaScript) which can be leveraged to program browser security features using JavaScript.
