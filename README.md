@@ -19,5 +19,6 @@ With that said, modern versions of web browsers provide powerful APIs (via JavaS
 
 The idea behing this project is to use documented APIs to inject JavaScript in browser for the purpose of manupilating the DOM.
 
-The project is a work in progress as I've finally managed to get some free time 'coding time'. Please feel free to contact me for any questions or if you're willing to contribute.
+The project is a work in progress as I've finally managed to get some free time 'coding time'. 
+Please feel free to contact me for any questions or if you're willing to contribute.
 
