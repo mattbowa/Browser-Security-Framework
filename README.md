@@ -8,9 +8,11 @@ Coming from a C/C++ background, I'd study the inner workings of a web browswer b
 As tedious as the process was, it worked! It because web browser allowed direct access to to it's memory, in C/C++, via extensions such as Browser Helper Objects (Internet Exploere) or Browser Extensions (Mozilla Firefox). 
 
 These add-ons had APIs which exposed hooks that allowed direct access the Document Object Model (DOM).
+
 But with power comes abuse, as malware writers used the unrestricted access for malicious itenstions
 
-On the other hand, Chrome was designed with limited access to the program's internals. It managed to do by exposing alot of it's funtionality via JavaScript APIs, and with the increasing popularity of Chrome access to the browser's funtionality shifted from C/C++ to JavaScript.
+On the other hand, Chrome was designed with limited access to the program's internals. It managed to do by exposing alot of it's funtionality via JavaScript APIs.
+With the increasing popularity of Chrome access to the browser's funtionality shifted from C/C++ to JavaScript.
 
 With that said, modern versions of web browsers provide powerful APIs (via JavaScript) which can be leveraged to program browser security features using JavaScript.
 
